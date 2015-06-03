@@ -11,7 +11,7 @@ links_landing_titles = {
     "Business Department" : 'Business',
     }
 
-class deAnzaIdex(unittest.TestCase):
+class deAnzaIndex(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Firefox()
         self.driver.implicitly_wait(30)
