@@ -1,0 +1,3 @@
+[submodule "Saucelabs-free-trial"]
+	path = Saucelabs-free-trial
+	url = ../SauceLabs-free-trial
